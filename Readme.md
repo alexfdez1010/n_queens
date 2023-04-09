@@ -1,4 +1,4 @@
-# N-Queen
+# N-Queens
 
 This repository contains a Rust implementation of the N-Queen problem solver. 
 The N-Queen problem is a classic combinatorial problem where the objective is to place N queens on an N x N chessboard 
